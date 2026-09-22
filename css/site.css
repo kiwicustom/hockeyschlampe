@@ -150,9 +150,17 @@ a { color: inherit; }
 .hero__ctas {
   display: flex;
   flex-wrap: wrap;
+  align-items: stretch;
   gap: 0.65rem;
   margin: 1.6rem 0 0;
   animation: rise 0.85s var(--ease) 0.34s both;
+}
+
+.hero__ctas .btn {
+  min-height: 3rem;
+  padding: 0.85rem 1.35rem;
+  font-size: 0.95rem;
+  line-height: 1.15;
 }
 
 @keyframes logo-in {
@@ -189,14 +197,16 @@ a { color: inherit; }
 .btn--primary {
   background: linear-gradient(165deg, #ef2540 0%, var(--ah-red) 42%, var(--ah-red-deep) 100%);
   color: #fff;
-  box-shadow: 0 12px 32px rgba(217, 0, 27, 0.38);
+  /* Tight glow — a large shadow reads as a taller/wider control next to ghost. */
+  box-shadow: 0 6px 18px rgba(217, 0, 27, 0.34);
 }
 
 .btn--ghost {
   background: rgba(255, 255, 255, 0.08);
   color: #fff;
-  border-color: rgba(255, 255, 255, 0.28);
+  border-color: rgba(255, 255, 255, 0.34);
   backdrop-filter: blur(8px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
 }
 
 .btn--ink {

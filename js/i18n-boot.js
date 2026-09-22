@@ -82,6 +82,17 @@
       if (key && dict[key] != null) el.setAttribute("aria-label", dict[key]);
     });
 
+    // help.alles-hockey.ch is another origin — pass lang via query.
+    document.querySelectorAll('a[href*="help.alles-hockey.ch"]').forEach((a) => {
+      try {
+        const url = new URL(a.getAttribute("href"), location.href);
+        url.searchParams.set("lang", lang);
+        a.setAttribute("href", url.toString());
+      } catch {
+        /* ignore */
+      }
+    });
+
     try {
       localStorage.setItem(STORAGE_KEY, lang);
     } catch {
