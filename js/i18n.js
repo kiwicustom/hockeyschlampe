@@ -37,7 +37,7 @@ window.HS_I18N = {
       "feat.map.body": "Clubs und Spieler suchen, filtern, vergleichen und merken.",
       "panel.title": "Wo die App läuft",
       "panel.p1":
-        "Die Open Beta läuft unter beta.hockeyschlampe.ch. app.hockeyschlampe.ch ist eine Produktionsadresse und liefert die App noch nicht aus.",
+        "Die Open Beta läuft unter app.hockeyschlampe.ch.",
       "panel.p2":
         "alles-hockey.ch ist der andere Eingang zum selben Produkt.",
       "panel.ctaBeta": "Beta-App",
@@ -53,7 +53,7 @@ window.HS_I18N = {
       "join.kicker": "Open Beta",
       "join.title": "Nur auf Einladung",
       "join.lead":
-        "Ein Operator lädt deine E-Mail ein. Du gibst den Mail-Code ein, erstellst eine PIN — und bist drin, in der App oder unter beta.hockeyschlampe.ch.",
+        "Ein Operator lädt deine E-Mail ein. Du gibst den Mail-Code ein, erstellst eine PIN — und bist drin, in der App oder unter app.hockeyschlampe.ch.",
       "join.ctaJoin": "Beitrittsschritte",
       "join.ctaPin": "E-Mail-Code → PIN",
       "footer.nav": "Footer",
@@ -85,7 +85,7 @@ window.HS_I18N = {
       "feat.map.body": "Search, filter, compare, and save clubs and players.",
       "panel.title": "Where the app runs",
       "panel.p1":
-        "The Open Beta runs at beta.hockeyschlampe.ch. app.hockeyschlampe.ch is a production address and is not serving the app yet.",
+        "The Open Beta runs at app.hockeyschlampe.ch.",
       "panel.p2":
         "alles-hockey.ch is the other front door to the same product.",
       "panel.ctaBeta": "Beta app",
@@ -101,7 +101,7 @@ window.HS_I18N = {
       "join.kicker": "Open Beta",
       "join.title": "Invitation only",
       "join.lead":
-        "An operator invites your email. You enter the mail code, create a PIN, and you’re in — on the app or at beta.hockeyschlampe.ch.",
+        "An operator invites your email. You enter the mail code, create a PIN, and you’re in — on the app or at app.hockeyschlampe.ch.",
       "join.ctaJoin": "Join steps",
       "join.ctaPin": "Email code → PIN",
       "footer.nav": "Footer",
@@ -133,7 +133,7 @@ window.HS_I18N = {
       "feat.map.body": "Näe lähiseutu — kun luistimet ovat jo jalassa.",
       "panel.title": "App vs selain",
       "panel.p1":
-        "Hockey Schlampe on selainbrändi — beta nyt osoitteessa beta.hockeyschlampe.ch, tuotanto myöhemmin app.hockeyschlampe.ch.",
+        "Open Beta toimii osoitteessa app.hockeyschlampe.ch.",
       "panel.p2":
         "Mieluummin selain? Koko sivusto pysyy osoitteessa hockeyschlampe.ch — sama tuoteperhe, selain edellä.",
       "panel.ctaBeta": "Beta-app",
@@ -149,7 +149,7 @@ window.HS_I18N = {
       "join.kicker": "Suljettu beta",
       "join.title": "Vain kutsulla",
       "join.lead":
-        "Operaattori kutsuu sähköpostisi. Syötät koodin, luot PIN-koodin — ja olet sisällä appissa tai osoitteessa beta.hockeyschlampe.ch.",
+        "Operaattori kutsuu sähköpostisi. Syötät koodin, luot PIN-koodin — ja olet sisällä appissa tai osoitteessa app.hockeyschlampe.ch.",
       "join.ctaJoin": "Liittymisohjeet",
       "join.ctaPin": "Sähköpostikoodi → PIN",
       "footer.nav": "Alatunniste",
@@ -181,7 +181,7 @@ window.HS_I18N = {
       "feat.map.body": "Voir ce qu’il y a près de toi — quand les lacets sont déjà noués.",
       "panel.title": "App vs navigateur",
       "panel.p1":
-        "Hockey Schlampe est la marque navigateur — bêta sur beta.hockeyschlampe.ch, prod plus tard sur app.hockeyschlampe.ch.",
+        "L’Open Beta tourne sur app.hockeyschlampe.ch.",
       "panel.p2":
         "Préférer le navigateur ? Le site complet reste sur hockeyschlampe.ch — même famille produit, navigateur d’abord.",
       "panel.ctaBeta": "App bêta",
@@ -197,7 +197,7 @@ window.HS_I18N = {
       "join.kicker": "Bêta fermée",
       "join.title": "Sur invitation seulement",
       "join.lead":
-        "Un opérateur invite ton e-mail. Tu saisis le code, crées un PIN — et tu es dedans, dans l’app ou sur beta.hockeyschlampe.ch.",
+        "Un opérateur invite ton e-mail. Tu saisis le code, crées un PIN — et tu es dedans, dans l’app ou sur app.hockeyschlampe.ch.",
       "join.ctaJoin": "Étapes pour rejoindre",
       "join.ctaPin": "Code e-mail → PIN",
       "footer.nav": "Pied de page",
@@ -229,7 +229,7 @@ window.HS_I18N = {
       "feat.map.body": "Vedi cosa c’è vicino — quando i lacci sono già legati.",
       "panel.title": "App vs browser",
       "panel.p1":
-        "Hockey Schlampe è il brand browser — beta su beta.hockeyschlampe.ch, prod più avanti su app.hockeyschlampe.ch.",
+        "L’Open Beta gira su app.hockeyschlampe.ch.",
       "panel.p2":
         "Preferisci il browser? Il sito completo resta su hockeyschlampe.ch — stessa famiglia di prodotto, browser first.",
       "panel.ctaBeta": "App beta",
@@ -245,7 +245,7 @@ window.HS_I18N = {
       "join.kicker": "Beta chiusa",
       "join.title": "Solo su invito",
       "join.lead":
-        "Un operatore invita la tua email. Inserisci il codice, crea un PIN — ed entri, nell’app o su beta.hockeyschlampe.ch.",
+        "Un operatore invita la tua email. Inserisci il codice, crea un PIN — ed entri, nell’app o su app.hockeyschlampe.ch.",
       "join.ctaJoin": "Passi per unirti",
       "join.ctaPin": "Codice email → PIN",
       "footer.nav": "Footer",
@@ -277,7 +277,7 @@ window.HS_I18N = {
       "feat.map.body": "Lueg, was i de Nöchi isch — wänn d Schnüersenkel scho gebunden sind.",
       "panel.title": "Browser vs. App",
       "panel.p1":
-        "Hockey Schlampe isch d Browser-Marke — Beta jetzt under beta.hockeyschlampe.ch, Produktion spöter under app.hockeyschlampe.ch.",
+        "D Open Beta lauft under app.hockeyschlampe.ch.",
       "panel.p2":
         "Lieber im Browser? Di volli Site blibt uf hockeyschlampe.ch — gliichi Produktfamilie, browser first.",
       "panel.ctaBeta": "Beta-App",
@@ -293,7 +293,7 @@ window.HS_I18N = {
       "join.kicker": "Gschlosseni Beta",
       "join.title": "Nume uf Iiladig",
       "join.lead":
-        "En Operator ladet dini E-Mail ii. Du gibsch de Mail-Code ii, erstellsch e PIN — und bisch drin, i de App oder under beta.hockeyschlampe.ch.",
+        "En Operator ladet dini E-Mail ii. Du gibsch de Mail-Code ii, erstellsch e PIN — und bisch drin, i de App oder under app.hockeyschlampe.ch.",
       "join.ctaJoin": "Biitrittschritt",
       "join.ctaPin": "E-Mail-Code → PIN",
       "footer.nav": "Footer",
